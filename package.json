@@ -1,0 +1,21 @@
+{
+  "name": "test-site",
+  "version": "1.0.0",
+  "description": "Smile Studio Dental Clinic website with Vercel Speed Insights",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "dental",
+    "clinic",
+    "website"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
